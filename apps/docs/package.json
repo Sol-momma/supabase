@@ -94,7 +94,7 @@
     "remark-math": "^6.0.0",
     "server-only": "^0.0.1",
     "shared-data": "*",
-    "toml": "^3.0.0",
+    "toml": "^5.0.1",
     "ui": "*",
     "ui-patterns": "*",
     "unist-builder": "^3.0.1",
