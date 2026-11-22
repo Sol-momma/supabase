@@ -120,7 +120,7 @@
     "vitest": "^1.6.0"
   },
   "peerDependencies": {
-    "next": "*",
+    "next": "^15.5.29",
     "react": "*",
     "react-dom": "*"
   }
